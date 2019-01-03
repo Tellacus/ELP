@@ -35,4 +35,6 @@ A la hora de diseñar y crear robots, se puede tener en cuenta la información o
 
 # Enlaces a Articulos
 
-https://es.wikipedia.org/wiki/Las_leyes_de_Isaac_Asimov_en_la_actualidad
+*https://es.wikipedia.org/wiki/Las_leyes_de_Isaac_Asimov_en_la_actualidad
+
+*https://es.wikipedia.org/wiki/Alan_Winfield
