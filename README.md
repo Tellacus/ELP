@@ -1,6 +1,6 @@
 # ELP
 
-¿Qué s eha realizado?
+¿Qué se ha realizado?
 
 
 ¿Motivación para realizar el trabajo?
