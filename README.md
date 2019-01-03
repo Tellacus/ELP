@@ -1,22 +1,22 @@
 # ELP
 
-¿Qué se ha realizado?
+#¿Qué se ha realizado?
 
 
-¿Motivación para realizar el trabajo?
+#¿Motivación para realizar el trabajo?
 
 
-¿Que se ha hecho?
+#¿Que se ha hecho?
 
 
-Miembros del grupo y roles:
-
-
-
-¿Como utilizar el trabajo por terceros?
+#Miembros del grupo y roles:
 
 
 
-Conclusiones/Reflexiones
+#¿Como utilizar el trabajo por terceros?
+
+
+
+#Conclusiones/Reflexiones
 
 
