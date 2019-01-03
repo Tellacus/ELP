@@ -11,10 +11,20 @@ Al ser alumnos de la facultad de informatica, Isaac Asimov ha sido un ejemplo a 
 
 # Miembros del grupo y roles:
 Esteban Rueda Martinez : rol de editor
+
+
 Alberto: rol de escritor y moderador
+
+
 Pablo: rol de escritor
+
+
 Jaime: rol de editor y administrador
+
+
 Fernando:rol de editor
+
+
 Alejandro Lopez-Tello: rol de escritor
 
 
