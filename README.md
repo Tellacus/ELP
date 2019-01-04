@@ -36,5 +36,9 @@ A la hora de diseñar y crear robots, se puede tener en cuenta la información o
 # Enlaces a Articulos
 
 * https://es.wikipedia.org/wiki/Las_leyes_de_Isaac_Asimov_en_la_actualidad
-
 * https://es.wikipedia.org/wiki/Alan_Winfield
+
+* https://en.wikipedia.org/wiki/Three_Laws_of_Robotics#Ambiguities_and_loopholes
+* https://www.efeempresas.com/blog/han-servido-para-algo-las-tres-leyes-de-la-robotica/
+* https://www.juguetronica.com/blog/nuevas-leyes-de-robotica/
+* https://www.pabloyglesias.com/el-papel-del-sesgo-en-ia/
