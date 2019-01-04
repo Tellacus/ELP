@@ -60,3 +60,7 @@ Finalmente, recordamos una de las afirmaciones del escritor Arthur C.Clarke, el 
 * https://www.pabloyglesias.com/el-papel-del-sesgo-en-ia/
 * https://www.microsiervos.com/archivo/ia/leyes-robotica-asimov-no-funcionan.html
 * http://www.gotterdammerung.org/books/isaac-asimov/foundation-and-earth.html
+* https://blogthinkbig.com/las-6-leyes-de-la-robotica-de-la-union-europea
+* https://www.abc.es/tecnologia/informatica/soluciones/abci-leyes-robotica-propone-europa-201701161941_noticia.html
+* https://people.uwe.ac.uk/Person/AlanWinfield
+* https://www.xataka.com/robotica-e-ia/la-primera-ley-de-la-robotica-de-asimov-puede-dejar-paralizados-a-los-robots
