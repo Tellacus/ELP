@@ -10,16 +10,16 @@ Al ser alumnos de la facultad de informatica, Isaac Asimov ha sido un ejemplo a 
 Se ha buscado y recopilado información acerca de las leyes de Asimov, de los problemas que plantea en la actualidad y del impacto ético. Nos hemos repartido el trabajo entre los miembros del grupo equitativamente. Posteriormente hemos redactado una serie de articulos, en base a la información obtenida de distintos sitios, que hemos publicado en la wikipedia.
 
 # Miembros del grupo y roles:
-Esteban Rueda Martinez : rol de editor
+Esteban Rueda Martinez : rol de editor y administrador
 
 
-Alberto: rol de escritor y moderador
+Alberto Fernandez-Baillo Rodriguez: rol de escritor y moderador
 
 
 Pablo Muñoz García: rol de escritor
 
 
-Jaime: rol de editor y administrador
+Jaime Calzada Ferreras: rol de editor y administrador
 
 
 Fernando Tena Hernandez-Cornejo: rol de editor
