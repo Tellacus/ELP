@@ -45,6 +45,7 @@ Finalmente, recordamos una de las afirmaciones del escritor Arthur C.Clarke, el 
 * https://es.wikipedia.org/wiki/Tres_leyes_de_la_rob%C3%B3tica#Problemas_%C3%A9ticos
 * https://es.wikipedia.org/w/index.php?title=Primera_Ley_de_la_Rob%C3%B3tica&oldid=112704917
 * https://es.wikipedia.org/wiki/6_Leyes_Roboticas_seg%C3%BAn_la_Uni%C3%B3n_Europea
+* https://es.wikipedia.org/wiki/Tres_leyes_de_la_rob%C3%B3tica
 
 # Enlaces Externos
 
@@ -57,3 +58,5 @@ Finalmente, recordamos una de las afirmaciones del escritor Arthur C.Clarke, el 
 * https://www.efeempresas.com/blog/han-servido-para-algo-las-tres-leyes-de-la-robotica/
 * https://www.juguetronica.com/blog/nuevas-leyes-de-robotica/
 * https://www.pabloyglesias.com/el-papel-del-sesgo-en-ia/
+* https://www.microsiervos.com/archivo/ia/leyes-robotica-asimov-no-funcionan.html
+* http://www.gotterdammerung.org/books/isaac-asimov/foundation-and-earth.html
