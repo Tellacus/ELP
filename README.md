@@ -16,13 +16,13 @@ Esteban Rueda Martinez : rol de editor
 Alberto: rol de escritor y moderador
 
 
-Pablo: rol de escritor
+Pablo Muñoz García: rol de escritor
 
 
 Jaime: rol de editor y administrador
 
 
-Fernando:rol de editor
+Fernando Tena Hernandez-Cornejo: rol de editor
 
 
 Alejandro Lopez-Tello: rol de escritor
