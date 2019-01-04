@@ -35,11 +35,16 @@ A la hora de diseñar y crear robots, se puede tener en cuenta la información o
 
 # Enlaces a Articulos
 
-
+* https://es.wikipedia.org/wiki/Leyes_de_Isaac_Asimov_en_el_siglo_XXI
 * https://es.wikipedia.org/wiki/Alan_Winfield
 
 # Enlaces Externos
 
+* https://www.bbc.com/mundo/noticias-44570518
+* https://theconversation.com/after-75-years-isaac-asimovs-three-laws-of-robotics-need-updating-74501
+* http://www.bioeticayderecho.ub.edu/es/yo-robot-o-las-tribulaciones-de-un-robot-kantiano
+* http://www.cs.bham.ac.uk/research/projects/cogaff/misc/asimov-three-laws.html
+* https://www.brookings.edu/opinions/isaac-asimovs-laws-of-robotics-are-wrong/
 * https://en.wikipedia.org/wiki/Three_Laws_of_Robotics#Ambiguities_and_loopholes
 * https://www.efeempresas.com/blog/han-servido-para-algo-las-tres-leyes-de-la-robotica/
 * https://www.juguetronica.com/blog/nuevas-leyes-de-robotica/
