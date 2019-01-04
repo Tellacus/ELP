@@ -37,6 +37,7 @@ A la hora de diseñar y crear robots, se puede tener en cuenta la información o
 
 * https://es.wikipedia.org/wiki/Leyes_de_Isaac_Asimov_en_el_siglo_XXI
 * https://es.wikipedia.org/wiki/Alan_Winfield
+* https://es.wikipedia.org/wiki/Tres_leyes_de_la_rob%C3%B3tica#Problemas_%C3%A9ticos
 
 # Enlaces Externos
 
